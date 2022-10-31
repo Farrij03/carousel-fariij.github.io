@@ -1,0 +1,27 @@
+body {
+    max-height: max-content;
+}
+
+.header {
+    background-image: url(../lingdup/foto/Group\ 1.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.foto-header {
+padding-top: 10em;
+ width: 150px;
+}
+
+.row {
+    padding: 0 0 0 100px;
+}
+
+.judul {
+    font-size: 70px;
+}
+
+.teks-header {
+    padding-bottom: 50px;
+}
